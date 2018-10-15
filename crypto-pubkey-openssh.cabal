@@ -39,7 +39,7 @@ Library
                   , asn1-encoding
 
   Exposed-modules:  Crypto.PubKey.OpenSsh
-  Other-modules:    Crypto.PubKey.OpenSsh.Types
+                    Crypto.PubKey.OpenSsh.Types
                     Crypto.PubKey.OpenSsh.Encode
                     Crypto.PubKey.OpenSsh.Decode
 
